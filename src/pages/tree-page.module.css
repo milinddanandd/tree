@@ -1,0 +1,580 @@
+.componentChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkseagreen);
+}
+.componentItem {
+  position: absolute;
+  height: 80.76%;
+  width: 89.12%;
+  top: 2.68%;
+  right: 5.57%;
+  bottom: 16.55%;
+  left: 5.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.indoor,
+.leavesLights {
+  position: absolute;
+  height: 4.03%;
+  width: 22.07%;
+  top: 80.31%;
+  left: 5.03%;
+  font-weight: 500;
+  display: inline-block;
+}
+.leavesLights {
+  height: 4.25%;
+  width: 56.7%;
+  left: 72.91%;
+  font-size: var(--font-size-xs);
+}
+.rectangleParent {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 358px;
+  height: 447px;
+  z-index: 0;
+  color: var(--color-darkslategray-100);
+}
+.addCartRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.buyNow {
+  margin: 0;
+}
+.addToCartContainer {
+  position: absolute;
+  top: 9px;
+  left: 42px;
+  font-weight: 500;
+}
+.buyNowIcon {
+  position: absolute;
+  top: 5.41px;
+  left: 3.73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buyNowButton {
+  position: absolute;
+  margin: 0 !important;
+  top: 400px;
+  left: 227px;
+  width: 131px;
+  height: 43px;
+  z-index: 1;
+}
+.shoppingCartIcon {
+  position: absolute;
+  top: 3.5px;
+  left: 8px;
+  border-radius: var(--br-11xs);
+  width: 23px;
+  height: 27px;
+  overflow: hidden;
+}
+.addCartButton {
+  position: absolute;
+  margin: 0 !important;
+  height: 7.83%;
+  width: 36.59%;
+  top: 89.71%;
+  right: 63.41%;
+  bottom: 2.46%;
+  left: 0;
+  z-index: 2;
+}
+.plantCard {
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: var(--gap-3xs);
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkseagreen);
+  width: 358px;
+  height: 447px;
+}
+.groupItem {
+  width: 520.89px;
+  height: 591.13px;
+  object-fit: cover;
+}
+.indoor1,
+.leavesLights1 {
+  position: absolute;
+  top: 359px;
+  left: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 79px;
+  height: 18px;
+}
+.leavesLights1 {
+  left: 261px;
+  font-size: var(--font-size-xs);
+  width: 203px;
+  height: 19px;
+}
+.addCartButton1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 401px;
+  left: 0;
+  width: 131px;
+  height: 35px;
+  z-index: 2;
+}
+.plantCard1 {
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 200px);
+  width: 297px;
+  height: 285px;
+  object-fit: cover;
+}
+.frameDiv {
+  position: absolute;
+  top: 119px;
+  left: 59px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 464px;
+  height: 447px;
+  color: var(--color-darkslategray-100);
+}
+.addCartButton2,
+.buyNowButton2 {
+  position: absolute;
+  top: 400px;
+  left: 227px;
+  width: 131px;
+  height: 43px;
+}
+.addCartButton2 {
+  top: 401px;
+  left: 0;
+  height: 35px;
+}
+.plantCard2 {
+  position: relative;
+  background-color: var(--night-ghost-text);
+  width: 358px;
+  height: 447px;
+}
+.arrowRightCircleIcon {
+  position: relative;
+  width: 69px;
+  height: 72px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.plantCardParent {
+  position: absolute;
+  top: 614px;
+  left: 79px;
+  width: 1347px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.rect1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 527px;
+  height: 408px;
+  object-fit: cover;
+}
+.discoverNewWayContainer,
+.loremIpsumDolorContainer {
+  position: absolute;
+  height: 10.94%;
+  width: 100%;
+  top: 61.72%;
+  left: 0;
+  display: inline-block;
+}
+.discoverNewWayContainer {
+  height: 35.94%;
+  width: 65.93%;
+  top: 20.31%;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--primary-black-100);
+}
+.blog,
+.frameChild,
+.frameItem {
+  position: absolute;
+  width: 18.68%;
+  left: 0;
+}
+.blog {
+  height: 7.81%;
+  top: 0;
+  font-size: var(--font-size-mid);
+  font-weight: 300;
+  display: inline-block;
+}
+.frameChild,
+.frameItem {
+  height: 0.29%;
+  top: 86.96%;
+  right: 81.32%;
+  bottom: 12.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameItem {
+  height: 48.22%;
+  width: 6.2%;
+  top: 25.89%;
+  right: 0;
+  bottom: 25.89%;
+  left: 93.8%;
+}
+.bySouha {
+  position: absolute;
+  height: 100%;
+  width: 37.02%;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame1 {
+  top: 322.67px;
+  left: 0;
+  width: 407.89px;
+  height: 18.67px;
+  color: var(--primary-black-100);
+}
+.frame {
+  top: 26.67px;
+  left: 984.79px;
+  width: 410.14px;
+  height: 341.33px;
+}
+.rect1Parent {
+  position: absolute;
+  height: 20.11%;
+  width: 100%;
+  top: 7.49%;
+  right: 0;
+  bottom: 72.4%;
+  left: 0;
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+  background-color: var(--color-whitesmoke);
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+  font-family: var(--font-roboto);
+}
+.main {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  background: linear-gradient(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.12)), #daf0bd;
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--primary-black-100);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 2029px;
+}
+.logoChild {
+  position: relative;
+  border-radius: var(--br-12xs);
+  width: 18px;
+  height: 18px;
+}
+.tree {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xs);
+}
+.home {
+  position: relative;
+  text-transform: capitalize;
+}
+.akarIconschevronDown {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.navLinks,
+.productsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.navLinks {
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--label-medium-600-size);
+}
+.frame2,
+.icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame2 {
+  width: 415px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.search {
+  text-transform: capitalize;
+}
+.forAnything {
+  text-transform: lowercase;
+}
+.searchForAnythingContainer {
+  position: relative;
+}
+.searchBox {
+  background-color: var(--color-greenyellow);
+  width: 336px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-37xl) var(--padding-xs)
+    var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.shoppingCartIcon3,
+.userIcon {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.userIcon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.shoppingCartIcon3 {
+  width: 23px;
+  height: 27px;
+}
+.frame3,
+.navs {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame3 {
+  width: 407px;
+  height: 44px;
+  flex-shrink: 0;
+  justify-content: flex-end;
+  gap: var(--gap-29xl);
+  font-size: var(--font-size-sm);
+  color: var(--primary-black-100);
+}
+.navs {
+  margin: 0;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  background-color: var(--primary-black-100);
+  width: 1440px;
+  height: 87px;
+  padding: var(--padding-xl) var(--padding-110xl) var(--padding-4xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  gap: var(--gap-270xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--night-ghost-text);
+  font-family: var(--paragraph-large-500);
+}
+.containerIcon {
+  position: relative;
+  width: 16px;
+  height: 24px;
+  display: none;
+}
+.label {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.left,
+.link01 {
+  display: flex;
+  flex-direction: row;
+}
+.link01 {
+  border-radius: var(--br-base);
+  overflow: hidden;
+  padding: var(--padding-base) var(--padding-xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.left {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.blurIcon {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.mark,
+.zeroIcon {
+  position: relative;
+}
+.mark {
+  border-radius: var(--br-base);
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.zeroIcon {
+  width: 85.07px;
+  height: 25.44px;
+}
+.logo1,
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.logo1 {
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.row {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.divider1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--gray-700);
+}
+.divider,
+.text {
+  position: relative;
+}
+.divider {
+  align-self: stretch;
+  height: 2px;
+}
+.text {
+  font-size: var(--paragraph-large-500-size);
+  letter-spacing: -0.02em;
+  line-height: 28px;
+  font-weight: 500;
+  color: var(--gray-500);
+  text-align: center;
+}
+.footers {
+  position: absolute;
+  width: 99.17%;
+  top: calc(50% + 700px);
+  right: 0.69%;
+  left: 0.14%;
+  background-color: var(--primary-black-100);
+  height: 309px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-61xl) var(--padding-61xl) var(--padding-21xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--label-medium-600-size);
+}
+.treePage {
+  position: relative;
+  width: 100%;
+  height: 2044px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--night-ghost-text);
+  font-family: var(--paragraph-large-500);
+}

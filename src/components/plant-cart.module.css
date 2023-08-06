@@ -1,0 +1,97 @@
+.instanceChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgreen);
+}
+.indoor,
+.leavesLights {
+  position: absolute;
+  height: 4.03%;
+  width: 22.07%;
+  top: 80.31%;
+  left: 5.03%;
+  font-weight: 500;
+  display: inline-block;
+}
+.leavesLights {
+  height: 4.25%;
+  width: 56.7%;
+  left: 72.91%;
+  font-size: var(--font-size-xs);
+}
+.photo1501004318641B39e6451beIcon {
+  position: absolute;
+  height: 64.43%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 35.57%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleParent {
+  flex: 1;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  height: 447px;
+  z-index: 0;
+}
+.addCartRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.buyNow {
+  margin: 0;
+}
+.addToCartContainer {
+  position: absolute;
+  top: 9px;
+  left: 42px;
+  font-weight: 500;
+}
+.buyNowIcon {
+  position: absolute;
+  top: 5.41px;
+  left: 3.73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buyNowButton {
+  flex: 1;
+  position: absolute;
+  margin: 0 !important;
+  top: 400px;
+  left: 216px;
+  height: 43px;
+  cursor: pointer;
+  z-index: 1;
+  color: var(--night-ghost-text);
+}
+.plantCard {
+  position: absolute;
+  top: 614px;
+  left: 931px;
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--primary-black-100);
+  font-family: var(--paragraph-large-500);
+}

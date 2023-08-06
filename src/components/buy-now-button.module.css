@@ -1,0 +1,34 @@
+.addCartRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.buyNow {
+  margin: 0;
+}
+.addToCartContainer {
+  position: absolute;
+  top: 9px;
+  left: 42px;
+  font-weight: 500;
+}
+.buyNowIcon {
+  position: absolute;
+  top: 5.41px;
+  left: 3.73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buyNowButton {
+  position: relative;
+  width: 131px;
+  height: 43px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--night-ghost-text);
+  font-family: var(--paragraph-large-500);
+}

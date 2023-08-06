@@ -1,0 +1,323 @@
+.component1Child {
+  position: absolute;
+  height: 100%;
+  width: 57.82%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 42.18%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-slateblue-300);
+}
+.nameOnCard {
+  height: 3.26%;
+  width: 20.57%;
+  top: 31.37%;
+  font-weight: 500;
+}
+.cardDetails,
+.cardType,
+.nameOnCard {
+  position: absolute;
+  left: 45.01%;
+  display: inline-block;
+}
+.cardType {
+  height: 3.42%;
+  width: 14.01%;
+  top: 13.04%;
+  font-size: var(--label-medium-600-size);
+  font-weight: 500;
+  font-family: var(--font-nunito);
+}
+.cardDetails {
+  height: 5.12%;
+  width: 22.35%;
+  top: 4.19%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.component1Item {
+  position: absolute;
+  height: 6.21%;
+  width: 52.16%;
+  top: 35.4%;
+  right: 2.83%;
+  bottom: 58.39%;
+  left: 45.01%;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-slateblue-100);
+}
+.expirationDate,
+.name {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.name {
+  height: 2.8%;
+  width: 7.6%;
+  top: 37.11%;
+  left: 47.69%;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+}
+.expirationDate {
+  height: 3.26%;
+  width: 20.57%;
+  top: 55.9%;
+  left: 45.01%;
+}
+.component1Inner {
+  position: absolute;
+  height: 6.21%;
+  width: 25.48%;
+  top: 59.78%;
+  right: 29.51%;
+  bottom: 34.01%;
+  left: 45.01%;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-slateblue-100);
+}
+.mmyy {
+  position: absolute;
+  height: 2.8%;
+  width: 10.28%;
+  top: 61.49%;
+  left: 47.69%;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+}
+.cvv,
+.rectangleDiv {
+  position: absolute;
+  left: 71.68%;
+}
+.cvv {
+  height: 3.26%;
+  width: 20.57%;
+  top: 55.9%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangleDiv {
+  height: 6.21%;
+  width: 25.48%;
+  top: 59.78%;
+  right: 2.83%;
+  bottom: 34.01%;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-slateblue-100);
+}
+.cardNumber,
+.div,
+.subtotal {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  height: 2.8%;
+  width: 10.28%;
+  top: 61.49%;
+  left: 74.37%;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+}
+.cardNumber,
+.subtotal {
+  height: 3.26%;
+  width: 20.57%;
+  top: 43.79%;
+  left: 45.01%;
+}
+.subtotal {
+  top: 71.74%;
+}
+.div1,
+.div2 {
+  left: 76.6%;
+  text-align: right;
+}
+.div1 {
+  position: absolute;
+  height: 3.26%;
+  width: 20.57%;
+  top: 71.74%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div2 {
+  top: 75.93%;
+}
+.div2,
+.div3,
+.shipping,
+.totalTaxIncl {
+  position: absolute;
+  height: 3.26%;
+  width: 20.57%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div3 {
+  top: 80.12%;
+  left: 76.6%;
+  text-align: right;
+}
+.shipping,
+.totalTaxIncl {
+  top: 75.93%;
+  left: 45.01%;
+}
+.totalTaxIncl {
+  top: 80.12%;
+}
+.component1Child1 {
+  position: absolute;
+  height: 6.21%;
+  width: 52.16%;
+  top: 47.52%;
+  right: 2.83%;
+  bottom: 46.27%;
+  left: 45.01%;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-slateblue-100);
+}
+.div4 {
+  position: absolute;
+  height: 2.8%;
+  width: 25.63%;
+  top: 49.22%;
+  left: 47.69%;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-silver);
+  display: inline-block;
+}
+.component1Child2 {
+  position: absolute;
+  height: 9.32%;
+  width: 52.16%;
+  top: 87.42%;
+  right: 2.83%;
+  bottom: 3.26%;
+  left: 45.01%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-turquoise);
+}
+.rectangleIcon {
+  position: absolute;
+  height: 7.76%;
+  width: 7.45%;
+  top: 2.95%;
+  right: 2.83%;
+  bottom: 89.29%;
+  left: 89.72%;
+  border-radius: var(--br-5xs);
+}
+.component1Child3,
+.component1Child4,
+.rectangleIcon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1Child3 {
+  position: absolute;
+  height: 8.54%;
+  width: 11.18%;
+  top: 18.63%;
+  right: 43.82%;
+  bottom: 72.83%;
+  left: 45.01%;
+  border-radius: var(--br-8xs);
+}
+.component1Child4 {
+  right: 30.1%;
+  left: 58.72%;
+}
+.component1Child4,
+.component1Child5,
+.component1Child6 {
+  position: absolute;
+  height: 8.54%;
+  width: 11.18%;
+  top: 18.63%;
+  bottom: 72.83%;
+  border-radius: var(--br-8xs);
+}
+.component1Child5 {
+  right: 16.54%;
+  left: 72.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1Child6 {
+  right: 2.83%;
+  left: 85.99%;
+  background-color: var(--color-gainsboro-100);
+}
+.seeAll {
+  position: absolute;
+  height: 2.95%;
+  width: 8.35%;
+  top: 21.27%;
+  left: 87.48%;
+  display: inline-block;
+  font-family: var(--font-open-sans);
+  text-align: center;
+}
+.lineDiv {
+  position: absolute;
+  height: 0.13%;
+  width: 52.31%;
+  top: 69.42%;
+  right: 2.75%;
+  bottom: 30.45%;
+  left: 44.93%;
+  border-top: 1px solid var(--color-slateblue-200);
+  box-sizing: border-box;
+}
+.checkout,
+.div5 {
+  position: absolute;
+  height: 3.73%;
+  width: 20.57%;
+  top: 90.22%;
+  left: 48.58%;
+  font-size: var(--label-medium-600-size);
+  font-weight: 500;
+  display: inline-block;
+}
+.checkout {
+  width: 12.67%;
+  left: 77.79%;
+}
+.rightIcon {
+  position: absolute;
+  height: 3.88%;
+  width: 3.73%;
+  top: 90.06%;
+  right: 5.81%;
+  bottom: 6.06%;
+  left: 90.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component1 {
+  position: relative;
+  width: 652px;
+  height: 754px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}

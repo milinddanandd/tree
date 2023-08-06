@@ -1,0 +1,9 @@
+.addCartButton {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  width: 171px;
+  height: 130px;
+  overflow: hidden;
+}

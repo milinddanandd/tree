@@ -1,0 +1,262 @@
+.frameChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgreen);
+}
+.indoor,
+.leavesLights {
+  position: absolute;
+  height: 4.03%;
+  width: 22.07%;
+  top: 80.31%;
+  left: 5.03%;
+  font-weight: 500;
+  display: inline-block;
+}
+.leavesLights {
+  height: 4.25%;
+  width: 56.7%;
+  left: 72.91%;
+  font-size: var(--font-size-xs);
+}
+.photo1501004318641B39e6451beIcon {
+  position: absolute;
+  height: 64.43%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 35.57%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.addCartRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.shoppingCartIcon {
+  position: absolute;
+  top: 3.5px;
+  left: 8px;
+  border-radius: var(--br-11xs);
+  width: 23px;
+  height: 27px;
+  overflow: hidden;
+}
+.addToCart {
+  position: absolute;
+  top: 9px;
+  left: 42px;
+  font-weight: 500;
+}
+.addCartButton {
+  position: absolute;
+  height: 7.83%;
+  width: 36.59%;
+  top: 89.26%;
+  right: 60.89%;
+  bottom: 2.91%;
+  left: 2.51%;
+  color: var(--night-ghost-text);
+}
+.buyNow {
+  margin: 0;
+}
+.buyNowIcon {
+  position: absolute;
+  top: 5.41px;
+  left: 3.73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buyNowButton {
+  position: absolute;
+  height: 9.62%;
+  width: 36.59%;
+  top: 89.49%;
+  right: 3.63%;
+  bottom: 0.89%;
+  left: 59.78%;
+  cursor: pointer;
+  color: var(--night-ghost-text);
+}
+.rectangleParent {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 358px;
+  height: 447px;
+}
+.plantCard,
+.plantCard1 {
+  position: absolute;
+  top: 614px;
+  left: 79px;
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.plantCard1 {
+  left: 505px;
+}
+.rectangleContainer {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 358px;
+  height: 447px;
+  z-index: 0;
+}
+.buyNowButton1 {
+  position: absolute;
+  margin: 0 !important;
+  top: 400px;
+  left: 216px;
+  width: 131px;
+  height: 43px;
+  cursor: pointer;
+  z-index: 1;
+  color: var(--night-ghost-text);
+}
+.plantCard2 {
+  position: absolute;
+  top: 614px;
+  left: 931px;
+  width: 358px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.arrowRightCircleIcon {
+  position: absolute;
+  top: 801.5px;
+  left: 1357px;
+  width: 69px;
+  height: 72px;
+  overflow: hidden;
+}
+.rect1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 527px;
+  height: 408px;
+  object-fit: cover;
+}
+.discoverNewWayContainer,
+.loremIpsumDolorContainer {
+  position: absolute;
+  height: 10.94%;
+  width: 100%;
+  top: 61.72%;
+  left: 0;
+  display: inline-block;
+}
+.discoverNewWayContainer {
+  height: 35.94%;
+  width: 65.93%;
+  top: 20.31%;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--primary-black-100);
+}
+.blog,
+.frameInner,
+.frameItem {
+  position: absolute;
+  width: 18.68%;
+  left: 0;
+}
+.blog {
+  height: 7.81%;
+  top: 0;
+  font-size: var(--font-size-mid);
+  font-weight: 300;
+  display: inline-block;
+}
+.frameInner,
+.frameItem {
+  height: 0.29%;
+  top: 86.96%;
+  right: 81.32%;
+  bottom: 12.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameInner {
+  height: 48.22%;
+  width: 6.2%;
+  top: 25.89%;
+  right: 0;
+  bottom: 25.89%;
+  left: 93.8%;
+}
+.bySouha {
+  position: absolute;
+  height: 100%;
+  width: 37.02%;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame1 {
+  top: 322.67px;
+  left: 0;
+  width: 407.89px;
+  height: 18.67px;
+  color: var(--primary-black-100);
+}
+.frame {
+  top: 26.67px;
+  left: 984.79px;
+  width: 410.14px;
+  height: 341.33px;
+}
+.rect1Parent {
+  position: absolute;
+  height: 20.11%;
+  width: 100%;
+  top: 7.49%;
+  right: 0;
+  bottom: 72.4%;
+  left: 0;
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+  background-color: var(--color-whitesmoke);
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+  font-family: var(--font-roboto);
+}
+.main {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.12)), #f6ffea;
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--primary-black-100);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 2029px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--primary-black-100);
+  font-family: var(--paragraph-large-500);
+}

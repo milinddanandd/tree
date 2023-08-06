@@ -1,0 +1,128 @@
+.footerBg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--primary-black-100);
+}
+.allRightsReserved {
+  position: absolute;
+  top: 259px;
+  left: 652px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.02em;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 412px;
+  height: 20px;
+}
+.iconCopyright,
+.separatorLineIcon {
+  position: absolute;
+  height: 2.49%;
+  width: 92.7%;
+  top: 68.79%;
+  right: 2.64%;
+  bottom: 28.72%;
+  left: 4.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconCopyright {
+  height: 6.41%;
+  width: 1.39%;
+  top: 83.01%;
+  right: 55.76%;
+  bottom: 10.58%;
+  left: 42.86%;
+}
+.account,
+.products {
+  position: absolute;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.products {
+  height: 7.05%;
+  width: 4.99%;
+  top: 42.31%;
+  left: 16.85%;
+  cursor: pointer;
+}
+.account {
+  height: 87.59%;
+  width: 69.38%;
+  top: 0;
+  left: 0;
+}
+.userIcon {
+  position: absolute;
+  height: 95.55%;
+  width: 23.13%;
+  top: 4.45%;
+  right: 0;
+  bottom: 0;
+  left: 76.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about,
+.component2 {
+  position: absolute;
+  cursor: pointer;
+}
+.component2 {
+  height: 8.05%;
+  width: 7.2%;
+  top: 48.08%;
+  right: 6.46%;
+  bottom: 43.87%;
+  left: 86.34%;
+}
+.about {
+  top: 132px;
+  left: 177px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 49px;
+  height: 22px;
+}
+.hom {
+  letter-spacing: -0.02em;
+}
+.e {
+  letter-spacing: 0.01em;
+}
+.homeTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.home {
+  position: absolute;
+  top: 129px;
+  left: 105px;
+  display: flex;
+  align-items: center;
+  width: 55px;
+  height: 27px;
+  cursor: pointer;
+}
+.footer {
+  position: relative;
+  width: 1442px;
+  height: 312px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--night-ghost-text);
+  font-family: var(--paragraph-large-500);
+}

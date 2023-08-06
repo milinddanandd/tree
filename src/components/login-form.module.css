@@ -1,0 +1,51 @@
+.password,
+.username {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 169px;
+  left: 0;
+}
+.password {
+  top: 234px;
+}
+.forgotPassword,
+.loginBtn {
+  position: absolute;
+  top: 322px;
+  left: 0;
+}
+.forgotPassword {
+  top: 378px;
+  left: 154px;
+  font-size: var(--label-medium-600-size);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--night-ghost-text);
+  text-align: center;
+}
+.groupIcon {
+  position: absolute;
+  height: 25.32%;
+  width: 41.05%;
+  top: -0.41%;
+  right: 29.58%;
+  bottom: 75.09%;
+  left: 29.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.form,
+.loginBtn1 {
+  position: absolute;
+  top: 418px;
+  left: 0;
+}
+.form {
+  top: 139px;
+  left: 490px;
+  width: 300px;
+  height: 463px;
+  cursor: pointer;
+}

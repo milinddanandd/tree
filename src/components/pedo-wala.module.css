@@ -1,0 +1,15 @@
+.pedoWala {
+  position: relative;
+  font-size: var(--label-medium-600-size);
+  letter-spacing: -0.02em;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: var(--paragraph-large-500);
+  color: var(--night-ghost-text);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 378px;
+  height: 78px;
+}

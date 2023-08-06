@@ -1,0 +1,221 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkseagreen);
+  width: 358px;
+  height: 447px;
+}
+.groupItem {
+  width: 520.89px;
+  height: 591.13px;
+  object-fit: cover;
+}
+.indoor,
+.leavesLights {
+  position: absolute;
+  top: 359px;
+  left: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 79px;
+  height: 18px;
+}
+.leavesLights {
+  left: 261px;
+  font-size: var(--font-size-xs);
+  width: 203px;
+  height: 19px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 358px;
+  height: 447px;
+  color: var(--color-darkslategray-100);
+}
+.addCartRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.buyNow {
+  margin: 0;
+}
+.addToCartContainer {
+  position: absolute;
+  top: 9px;
+  left: 42px;
+  font-weight: 500;
+}
+.buyNowIcon {
+  position: absolute;
+  top: 5.41px;
+  left: 3.73px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.buyNowButton {
+  position: absolute;
+  top: 400px;
+  left: 227px;
+  width: 131px;
+  height: 43px;
+}
+.shoppingCartIcon {
+  position: absolute;
+  top: 3.5px;
+  left: 8px;
+  border-radius: var(--br-11xs);
+  width: 23px;
+  height: 27px;
+  overflow: hidden;
+}
+.addCartButton {
+  position: absolute;
+  top: 401px;
+  left: 0;
+  width: 131px;
+  height: 35px;
+}
+.desktop1Child,
+.plantCard,
+.plantCard1,
+.plantCard2 {
+  position: absolute;
+  top: 614px;
+  left: 930px;
+  width: 358px;
+  height: 447px;
+}
+.desktop1Child,
+.plantCard1,
+.plantCard2 {
+  left: 514px;
+}
+.desktop1Child,
+.plantCard2 {
+  left: 79px;
+}
+.desktop1Child {
+  top: 1802px;
+  left: 742px;
+  background-color: #d9d9d9;
+  width: 218px;
+  height: 73px;
+}
+.rect1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 527px;
+  height: 408px;
+  object-fit: cover;
+}
+.frameChild {
+  position: absolute;
+  height: 2.64%;
+  width: 6.29%;
+  top: 95.95%;
+  right: 0.43%;
+  bottom: 1.42%;
+  left: 93.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bySouha,
+.loremIpsumDolorContainer {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.bySouha {
+  height: 5.47%;
+  width: 36.81%;
+  top: 94.53%;
+  font-weight: 300;
+}
+.loremIpsumDolorContainer {
+  height: 10.94%;
+  width: 100%;
+  top: 61.72%;
+  color: var(--color-darkgray);
+}
+.blog,
+.discoverNewWayContainer {
+  position: absolute;
+  height: 35.94%;
+  width: 65.93%;
+  top: 20.31%;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.blog {
+  height: 7.81%;
+  width: 18.68%;
+  top: 0;
+  font-size: var(--font-size-mid);
+  font-weight: 300;
+  color: var(--color-darkgray);
+}
+.frame,
+.frameItem {
+  position: absolute;
+  overflow: hidden;
+}
+.frameItem {
+  height: 0.29%;
+  width: 18.68%;
+  top: 86.96%;
+  right: 81.32%;
+  bottom: 12.74%;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame {
+  top: 26.67px;
+  left: 984.79px;
+  width: 410.14px;
+  height: 341.33px;
+}
+.rect1Parent {
+  position: absolute;
+  height: 20.11%;
+  width: 100%;
+  top: 7.49%;
+  right: 0;
+  bottom: 72.4%;
+  left: 0;
+  border-radius: 0 var(--br-5xs) var(--br-5xs) 0;
+  background-color: var(--color-whitesmoke);
+  font-size: var(--font-size-xs);
+  color: var(--primary-black-100);
+  font-family: var(--font-roboto);
+}
+.desktop1 {
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.12)), #daf0bd;
+  backdrop-filter: blur(4px);
+  border: 1px solid var(--primary-black-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 2029px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--night-ghost-text);
+  font-family: var(--paragraph-large-500);
+}
